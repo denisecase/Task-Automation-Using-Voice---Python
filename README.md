@@ -14,7 +14,7 @@ In Anaconda PowerShell Prompt as Administrator run:
 pip install pyttsx3
 conda install -c conda-forge speechrecognition
 conda install -c conda-forge pyaudio
-python assistant.py
+python Assistant.py
 ```
 
 You'll need a microphone and speaker on your computer. If using Windows, check Microphone settings to be sure apps can access your mic. 
